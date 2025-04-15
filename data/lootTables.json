@@ -91,7 +91,8 @@
     "tier_ammo": { "count": 1, "weight": 1 }
   },
   "tier_sv98": {
-    "sv98": { "count": 1, "weight": 1 }
+    "sv98": { "count": 1, "weight": 0.99 },
+    "m82a1": { "count": 1, "weight": 0.01 }
   },
   "tier_scopes_sniper": {
     "4xscope": { "count": 1, "weight": 0.20 },
@@ -117,8 +118,9 @@
     "m4a1": { "count": 1, "weight": 0.4 },
     "m249": { "count": 1, "weight": 0.05 },
     "m870": { "count": 1, "weight": 9 },
-    "awc": { "count": 1, "weight": 0.05 },
-    "pkp": { "count": 1, "weight": 3 }
+    "awc": { "count": 1, "weight": 0.04 },
+    "pkp": { "count": 1, "weight": 3 },
+    "m82a1": { "count": 1, "weight": 0.01 }
   },
   "tier_sledgehammer": {
     "sledgehammer": { "count": 1, "weight": 1 }
@@ -205,7 +207,8 @@
     "mp220": { "count": 1, "weight": 1 },
     "m249": { "count": 1, "weight": 0.1 },
     "pkp": { "count": 1, "weight": 0.05 },
-    "m9": { "count": 1, "weight": 0.01 }
+    "m9": { "count": 1, "weight": 0.009 }
+    "m82a1": { "count": 1, "weight": 0.001 }
   }
 }
 
